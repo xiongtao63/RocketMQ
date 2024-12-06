@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: cpp
+server:
+  port: 8000
+logging:
+  level:
+    root: info
+    com.example: debug
